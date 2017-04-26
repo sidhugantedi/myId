@@ -1,0 +1,64 @@
+body {
+    background: linear-gradient(to right, #23262A 0%, #6D717A 51%, #23262A 100%);
+}
+.name-block h1 {
+    font-family: Rancho;
+    font-size: 3.7em;
+    font-weight: 200;
+
+}
+
+.container {
+    background: linear-gradient(to right, #076AF9 0%, #1A71B9 25%, #1BB2EA 51%, #076AF9 100%);
+        /*linear-gradient(to left, #1c1c21 0%, #1e1e3f 51%, #181859 100%);*/
+    position: inherit;
+    margin: 150px auto 300px auto;
+    border-radius: 75px 15px;
+    box-shadow: 10px 10px 5px 3px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    height: 300px;
+}
+
+.image {
+    height: 200px
+    width: 200px;
+    border-radius: 50%;
+    float: right;
+}
+.name-block {
+    text-align: center;
+    padding: 50px;
+    color: black;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+}
+#intro {
+    margin: 120px 120px;
+}
+.addr {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+}
+.new-card {
+    background: linear-gradient(to right, #1c1c21 0%, #1e1e3f 25%, #181859 51%, #263B65 100%);
+        /*linear-gradient(to left, #1c1c21 0%, #1e1e3f 51%, #181859 100%);*/
+    position: inherit;
+    margin-bottom: 150px;
+    border-radius: 15px 75px;
+    box-shadow: 10px 10px 5px 3px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    height: 300px;
+}
+.name-block2 {
+    text-align: center;
+    padding: 50px;
+    color: white;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+}
+.name-block2 h1 {
+    font-family: Rancho;
+    font-size: 3.2em;
+}
+
+
